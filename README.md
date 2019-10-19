@@ -4,7 +4,7 @@ By: Patrick L. Cavins, PhD
 
 ## Librarys Used
 - json 
-- 
+- difflib, get_close_matches  
 
 ## Data
 - english_dictionary_data.json
